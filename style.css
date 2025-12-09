@@ -1,0 +1,29 @@
+body {
+    font-family: "neue-haas-grotesk-text", "Helvetica Neue", sans-serif;
+    margin: 0;
+    padding: 20px 20px;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2a2a2a;
+}
+
+a {color: #2a2a2a; text-decoration: none;}
+
+h1 {
+    font-size: 1.25rem;
+    margin: 0 0 24px 0;
+    font-weight: 500;
+}
+
+.section {
+    margin-bottom: 24px;
+}
+
+.label {
+    width: 116px;
+}
+.work-row {
+    display: flex;
+    flex-direction: row;
+}
